@@ -1,0 +1,14 @@
+# Virtual env
+venv/
+.env
+
+# Database
+data/
+*.db
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
